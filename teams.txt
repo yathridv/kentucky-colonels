@@ -8,3 +8,26 @@ The Kentucky Colonels were a member of the American Basketball Association
   was the Colonels' original venue for the first three seasons 
   before moving to Freedom Hall for the remaining seasons, 
   beginning with the 1970–71 schedule.
+
+Roster
+
+Number, name, position
+50,Howard Bayne,Power forward
+52,Orbie Bowling,Center
+34,Bill Bradley,Shooting guard
+24,Jim Caldwell,Center
+35,Darel Carrier,Shooting guard
+40,Larry Conley,Shooting guard
+10,Louie Dampier,Point guard
+32,David Gaines,Shooting guard
+24,Stew Johnson,Power forward
+22,Goose Ligon,Power forward
+25,Randolph Mahaffey,Small forward
+44,Cotton Nash,Small forward
+45,Bobby Rascoe,Small forward
+14/41,Kendall Rhine,Center
+42,Joe Roberts,Small forward
+32,Rubin Russell,Shooting guard
+14,George Sutor,Center
+54,Tommy Woods,Power forward
+
